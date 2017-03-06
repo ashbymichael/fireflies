@@ -1,0 +1,2 @@
+class Firefly < ApplicationRecord
+end
